@@ -1,5 +1,4 @@
 # Github_listing_page
-# GitHub Repositories Viewer
 
 This web application allows you to view public GitHub repositories for a specific user.
 
